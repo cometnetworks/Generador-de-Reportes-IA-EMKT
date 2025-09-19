@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Reportes de Email Marketing con IA",
+  "description": "Una aplicación web interactiva que utiliza IA para analizar datos de campañas de email marketing de plataformas como HubSpot o Brevo y generar informes detallados con insights y recomendaciones.",
+  "requestFramePermissions": []
+}
